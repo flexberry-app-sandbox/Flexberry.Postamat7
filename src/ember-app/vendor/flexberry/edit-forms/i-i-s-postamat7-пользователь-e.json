@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пользователь",
+  "name": "IISPostamat7ПользовательE",
+  "className": "ПользовательE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-postamat7-пользователь",
+      "modelProjection": "ПользовательE"
+    }
+  ]
+}
